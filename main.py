@@ -1,1 +1,1 @@
-print(this will fail)
+print("this")
